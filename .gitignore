@@ -1,0 +1,29 @@
+# 忽略 .ok_history 文件
+.ok_history
+
+# 忽略 .bak 文件
+.ok_storage.bak
+
+# 忽略 .dat 文件
+.ok_storage.dat
+
+# 忽略 .dir 文件
+.ok_storage.dir
+
+# 忽略 .ok 文件
+.ok
+
+# 忽略 .pyc 文件
+.pyc
+
+# 忽略 .ok_messages 文件
+.ok_messages
+
+# 忽略 .ok_disabled 文件
+.ok_disabled
+
+# 忽略 .ok_context 文件
+.ok_context
+
+# 忽略 .ok_consent 文件
+.ok_consent

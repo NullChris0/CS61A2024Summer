@@ -1,0 +1,4 @@
+{
+    "python.analysis.typeCheckingMode": "off",
+    "Codegeex.CompletionDelay": 0.5
+}
